@@ -40,6 +40,11 @@ Displays the environment and plots the waypoints in the 3D view.
 
 Runs the simulation, updating the scenario at a rate of 20 Hz, and stops when the robot reaches the goal position.
 
+## Result
+Here is an image showing the result of the robotic simulation:
+
+![Simulation Result](Simulation Result.jpeg)
+
 ## Requirements
 
 - MATLAB
