@@ -9,7 +9,8 @@ This repository contains a MATLAB script for setting up and simulating a robotic
 
 ```matlab
 scenario = robotScenario(UpdateRate=5);
-Adding the Floor
+
+### Adding the Floor
 matlab
 Copy code
 floorColor = [0.5882 0.2941 0];
