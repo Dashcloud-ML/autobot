@@ -43,7 +43,7 @@ Runs the simulation, updating the scenario at a rate of 20 Hz, and stops when th
 ## Result
 Here is an image showing the result of the robotic simulation:
 
-![Simulation Result](Simulation Result.jpeg)
+![Simulation Result](https://github.com/Dashcloud-ML/autobot/blob/main/Simulation%20Result.jpeg)
 
 ## Requirements
 
