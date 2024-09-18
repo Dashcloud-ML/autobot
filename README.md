@@ -56,3 +56,25 @@ Here is an image showing the result of the robotic simulation:
 
    ```bash
    git clone https://github.com/yourusername/robotic-simulation-matlab.git
+
+   # Robotic Simulation in MATLAB
+
+This repository contains a MATLAB script developed as part of our 2nd-year minor project. The project aims to simulate a robotic scenario in a 3D environment, integrating key concepts from robotics, path planning, and control systems.
+
+## Project Goals
+
+The primary objective of this project was to simulate an autonomous robot navigating through a complex environment, avoiding obstacles and reaching a specified goal. The simulation demonstrates real-world applications like robotic navigation, autonomous vehicles, and smart robotics in dynamic environments.
+
+## Our Contribution
+
+As part of our coursework, we developed this simulation to apply theoretical knowledge gained in subjects like control systems, kinematics, and MATLAB programming. The project involved setting up the 3D environment, designing obstacles, implementing a path-planning algorithm, and simulating the robot’s trajectory using MATLAB's Robotics System Toolbox.
+
+## Learning Outcomes
+
+Through this project, we:
+
+- Developed proficiency in MATLAB and Robotics System Toolbox.
+- Gained hands-on experience in robotic simulations and path planning.
+- Understood how to model real-world robotics problems in a controlled environment.
+- Worked as a team to complete the project, improving collaboration and project management skills.
+
